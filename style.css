@@ -74,7 +74,7 @@ h1 {
   gap: 20px;
   flex-wrap: wrap;
   margin: 2rem auto;
-  max-width: 600px;
+  max-width: 1000px;
   padding: 0 10px; /* helps on small screens */
 }
 
@@ -216,4 +216,3 @@ h1 {
     font-size: 0.7rem;
   }
 }
-
